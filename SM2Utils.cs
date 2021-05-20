@@ -9,7 +9,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-// dev_legion分支创建后，第一次改动
+// dev_legion分支创建后，第2次改动
 
 namespace AndroidQQ_8_4_1_4680_ECDH.威流
 {
